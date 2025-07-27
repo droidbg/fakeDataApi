@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 6a2b3cb11d06885584a42a9ffc50b4f7385fd250bbed4480bbff7c2211938358
+- filename: src/products/products.service.ts
+  checksum: 4cf71139d392230cc675e342efa2534c6c927784dcbb4ec67134e894dd4a322f
+version: ""
